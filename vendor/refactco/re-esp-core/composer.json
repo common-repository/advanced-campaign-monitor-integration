@@ -1,0 +1,18 @@
+{
+    "name": "refactco/re-esp-core",
+    "description": "Refact ESP Core",
+    "type": "wordpress",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Refact\\ESP_Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Refact Team",
+            "email": "dev@refact.co"
+        }
+    ],
+    "require": {}
+}
